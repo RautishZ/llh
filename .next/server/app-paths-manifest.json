@@ -1,0 +1,8 @@
+{
+  "/admin/page": "app/admin/page.js",
+  "/api/courses/route": "app/api/courses/route.js",
+  "/api/challengeOptions/route": "app/api/challengeOptions/route.js",
+  "/api/challenges/route": "app/api/challenges/route.js",
+  "/api/lessons/route": "app/api/lessons/route.js",
+  "/(marketing)/page": "app/(marketing)/page.js"
+}
